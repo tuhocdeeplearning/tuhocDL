@@ -1,8 +1,5 @@
 # Deep Learning Example Programs
-Nguyen Hai Duong  
-Professor Kim Soo Hyung  
-Chonnam National University  
-    
+
 ## Environment
 0. Windows x64
 1. Python 3.5
